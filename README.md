@@ -1,2 +1,2 @@
 # Propagator
-An app which managed New item and does reliability analysis.
+An app which managed News items and does reliability analysis.
